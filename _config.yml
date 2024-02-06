@@ -1,8 +1,8 @@
-title: Concerto
-description: Documentation for the Concerto programming language.
+title: Sonata
+description: Documentation for the Sonata scripting language.
 theme: just-the-docs
 
-logo: "/images/concerto.png"
+logo: "/images/sonata.png"
 favicon_ico: "/images/favicon.ico"
 
 # Color scheme supports "light" (default) and "dark"
